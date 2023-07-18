@@ -1,14 +1,17 @@
 #yellow {
+	border-top-style: solid;
 	background-color: yellow;
 	border-width: 1px;
 	border-color: green;
 }
 #red {
+		border-top-style: solid;
 	background-color: red;
 	border-width: 1px;
 	border-color: black;
 }
 #green {
+		border-top-style: solid;
 	background-color: green;
 	border-width: 1px;
 	border-color: yellow;
